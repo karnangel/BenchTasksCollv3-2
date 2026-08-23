@@ -51,3 +51,5 @@ The latest review keeps the following entries in **implementing** status, so the
 - `audit-logger` — Chinese text in `docs/agent_system_prompt.md`
 - `resource-monitor` — Chinese text in `docs/agent_system_prompt.md`
 - the malformed unnamed artifact at `tasks/yuxuan` — no task name or distinct task directory
+
+Last reviewed and verified: 2026-08-23
